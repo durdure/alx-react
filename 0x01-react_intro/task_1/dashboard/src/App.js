@@ -15,7 +15,7 @@ function App() {
     <div className='App-line'></div>
     <div className="App-footer">
       <p>
-      Copyright 2020 - holberton School</p>
+      Copyright 2024 - holberton School</p>
     </div>
     </>
     
